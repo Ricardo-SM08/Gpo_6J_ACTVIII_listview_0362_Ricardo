@@ -1,16 +1,9 @@
-# myapp
+# myselfcar
+## Ricardo Santiago Montañez 6°J
 
-A new Flutter project.
+imagen en movil
+<img width="423" height="749" alt="image" src="https://github.com/user-attachments/assets/165a65cb-1646-446d-94d1-8db98d77a4ca" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+imagen en web
+<img width="455" height="831" alt="image" src="https://github.com/user-attachments/assets/d9626ff3-a3a9-40cc-837e-224405e254f2" />
